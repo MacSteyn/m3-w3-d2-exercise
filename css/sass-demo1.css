@@ -1,0 +1,22 @@
+body {
+  font-family: 'Open sans" ,sans serif';
+}
+
+h1, h2, h3 {
+  font-family: "lobster", cursive;
+}
+
+h2 {
+  color: #6aff00;
+}
+
+header h2 {
+  color: #0b76cf;
+}
+
+.site-footer {
+  background-image: linear-gradient(#0b76cf, white);
+  padding: 20px 0;
+}
+
+/*# sourceMappingURL=sass-demo1.css.map */

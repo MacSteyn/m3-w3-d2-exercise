@@ -1,0 +1,9 @@
+.danger {
+  color: red;
+  font-size: 25px;
+  font-weight: bold;
+  border: 1px solid rgba(255, 0, 187, 0.792);
+  background-color: green;
+}
+
+/*# sourceMappingURL=sass-demo3.css.map */
